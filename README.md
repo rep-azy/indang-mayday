@@ -1,2 +1,4 @@
-# indang-mayday
-Mayday is a community emergency reporting system for Indang, Cavite, with role-based access for admins, responders, and citizens. It supports real-time reporting, dispatching, and route tracking to improve emergency response.
+# Mayday - Indang
+
+Managing emergency reports manually? Struggling to organize responders and stations efficiently?
+Mayday’s web dashboard gives you the control you need—track reports, dispatch units, manage users, and generate insights—all in one streamlined platform built for real-time crisis response.
